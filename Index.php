@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<php?
 required_once("./php/myDBC.php");
 if(isset($_SESSION['session']))
 {
